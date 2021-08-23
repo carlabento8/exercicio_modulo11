@@ -1,0 +1,23 @@
+{
+  "name": "exercicio_modulo11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlabento8/exercicio_modulo11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlabento8/exercicio_modulo11/issues"
+  },
+  "homepage": "https://github.com/carlabento8/exercicio_modulo11#readme",
+  "devDependencies": {
+    "cypress": "^8.3.0"
+  }
+}
