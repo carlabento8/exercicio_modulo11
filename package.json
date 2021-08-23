@@ -19,5 +19,8 @@
   "homepage": "https://github.com/carlabento8/exercicio_modulo11#readme",
   "devDependencies": {
     "cypress": "^8.3.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
   }
 }
