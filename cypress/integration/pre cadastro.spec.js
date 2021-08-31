@@ -4,7 +4,7 @@ var faker = require('faker');
 describe('Funcionalidade Pre cadastro', () => {
 
     before(() => {
-        cy.visit('http://lojaebac.ebaconline.art.br/minha-conta/')
+        cy.visit('minha-conta')
     });
     
     it('Completar cadastro com sucesso', () => {
@@ -19,7 +19,6 @@ describe('Funcionalidade Pre cadastro', () => {
 
         cy.get('.woocommerce-message').should('contain', 'Detalhes da conta modificados com sucesso.')
     })
-
 
 
 });
